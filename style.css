@@ -2,11 +2,12 @@
 
 body {
   font-family: helvetica, arial, sans-serif;
-  margin: 2em;
-  background-color: lightblue;
+  margin: 0;
+  background-color: pink;
 }
 
 h1 {
   font-style: italic;
-  color: #373fff;
+  color: yellow;
+  font-size:100px;
 }
